@@ -20,6 +20,8 @@ mermaid: true
 
 앞으로 ROS 개발일지 뿐만아니라, 각종 임베디드 시스템 관련, 학과 공부 관련 포스팅을 할 예정입니다. 지켜봐주십사...
 
+![Desktop View](/assets/img/posts/20250131/ros.png){: width="972" height="589" .w-75}
+
 ## 벡틱테스트
 ```python
 
